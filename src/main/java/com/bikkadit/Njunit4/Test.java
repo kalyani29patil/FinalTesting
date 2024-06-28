@@ -7,4 +7,14 @@ public class Test {
 		
 		return "welcome";
 	}
+	
+	
+	
+	//QA
+	
+	public String demo1() {
+		
+		return "this is written by QA";
+		
+	}
 }
