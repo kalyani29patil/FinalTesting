@@ -17,4 +17,13 @@ public class Test {
 		return "this is written by QA";
 		
 	}
+
+	
+	
+	//developr
+	public String demo2() {
+		
+		return "this is developer code";
+	}
+
 }
