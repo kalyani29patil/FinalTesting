@@ -16,8 +16,16 @@ public class Test {
 
 	}
 
+	
+public String demo2() {
+		
+		return "this is written by QA";
+		
+	}
+
+
 	// developr
-	public String demo2() {
+	public String demo3() {
 
 		return "this is developer code";
 	}
@@ -26,5 +34,6 @@ public class Test {
 
 		return "this is developer conflict code";
 	}
+
 
 }
