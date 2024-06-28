@@ -21,5 +21,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    
+    <!-- https://mvnrepository.com/artifact/com.mysql/mysql-connector -->
+<dependency>
+    <groupId>com.mysql</groupId>
+    <artifactId>mysql-connector</artifactId>
+    
+</dependency>
+
   </dependencies>
 </project>
