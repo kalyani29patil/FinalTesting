@@ -15,6 +15,7 @@ public class Test {
 		return "this is written by QA";
 
 	}
+<<<<<<< HEAD
 
 	// developr
 	public String demo2() {
@@ -27,4 +28,12 @@ public class Test {
 		return "this is developer conflict code";
 	}
 
+=======
+	
+public String demo2() {
+		
+		return "this is written by QA";
+		
+	}
+>>>>>>> 4af1d16 (v1:B-444333,codeByQA)
 }
