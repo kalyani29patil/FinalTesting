@@ -17,4 +17,10 @@ public class Test {
 		return "this is written by QA";
 		
 	}
+	
+public String demo2() {
+		
+		return "this is written by QA";
+		
+	}
 }
