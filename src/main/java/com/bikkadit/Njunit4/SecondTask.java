@@ -20,7 +20,7 @@ public class SecondTask {
 		
 		
 
-		public void sum() {
+		public void sub() {
 			
 			int a=10;
 			int b=20;
