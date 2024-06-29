@@ -16,7 +16,20 @@ public class Test {
 
 	}
 
+<<<<<<< HEAD
 	public String demo2() {
+=======
+	
+public String demo2() {
+		
+		return "this is written by QA";
+		
+	}
+
+
+	// developr
+	public String demo3() {
+>>>>>>> b5a74b8d3816d4883223840a12265b2e7ac43070
 
 		return "this is developer code";
 	}
@@ -26,6 +39,7 @@ public class Test {
 		return "this is developer conflict code";
 	}
 
+<<<<<<< HEAD
 	public String demo3() {
 
 		return "this is written by QA";
@@ -41,5 +55,7 @@ public class Test {
 	
 	
 	
+=======
+>>>>>>> b5a74b8d3816d4883223840a12265b2e7ac43070
 
 }
